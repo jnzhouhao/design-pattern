@@ -1,5 +1,8 @@
 package com.hunk.designpattern.factory.simple;
 
+import com.hunk.designpattern.factory.ICourse;
+import com.hunk.designpattern.factory.JavaCourse;
+import com.hunk.designpattern.factory.PhpCourse;
 import org.junit.Test;
 
 /**

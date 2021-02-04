@@ -1,4 +1,4 @@
-package com.hunk.designpattern.factory.simple;
+package com.hunk.designpattern.factory;
 
 /**
  * Java课程

@@ -1,5 +1,9 @@
 package com.hunk.designpattern.factory.simple;
 
+import com.hunk.designpattern.factory.ICourse;
+import com.hunk.designpattern.factory.JavaCourse;
+import com.hunk.designpattern.factory.PhpCourse;
+
 /**
  * 课程简单工厂
  * @author zh0809
