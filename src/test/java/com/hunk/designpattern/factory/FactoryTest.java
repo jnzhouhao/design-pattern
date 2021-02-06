@@ -14,7 +14,7 @@ import org.junit.Test;
 public class FactoryTest {
 
     /**
-     * 简单工厂
+     * 简单工厂模式
      */
     @Test
     public void simpleFactoryTest() {
@@ -45,6 +45,9 @@ public class FactoryTest {
         phpCourse.live();
     }
 
+    /**
+     * 抽象工厂模式
+     */
     @Test
     public void abstractFactoryTest() {
         com.hunk.designpattern.factory.abstractFactory.JavaCourseFactory courseFactory = new com.hunk.designpattern.factory.abstractFactory.JavaCourseFactory();
